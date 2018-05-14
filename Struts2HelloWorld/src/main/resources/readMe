@@ -1,0 +1,5 @@
+home:
+http://localhost:8080/Struts2/
+
+login:
+http://localhost:8080/Struts2/User/Login
